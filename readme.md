@@ -17,6 +17,7 @@ This repository demonstrates how to generate an **llms.txt** file using the Hugo
 **Reference:** 
 
 - LLMS Standard: [https://llmstxt.org/](https://llmstxt.org/)
+- LLMS repo: [https://github.com/AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt)
 - LLMS Info: [https://dev.to/masutaka/added-llmstxt-and-llms-fulltxt-to-my-hugo-built-website-343i](https://dev.to/masutaka/added-llmstxt-and-llms-fulltxt-to-my-hugo-built-website-343i)
 - LLMS Example: [https://kibervarnost.si/llms.txt](https://kibervarnost.si/llms.txt)
 
