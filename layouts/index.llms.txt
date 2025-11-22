@@ -10,7 +10,9 @@ Base URL: {{ .Site.BaseURL }}
 {{- range $pages }}
 
 ## {{ .Title }}
-URL: {{ .Permalink }}
+
+[URL]({{ .Permalink }})
+
 {{- if .Date }}  
 Date: {{ .Date.Format "2006-01-02" }}
 {{- end }}
