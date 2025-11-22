@@ -1,0 +1,13 @@
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "My Hugo Site"
+theme = "your-theme"
+
+[outputs]
+home = ["HTML", "RSS", "llms"]
+
+[outputFormats.llms]
+baseName = "llms"
+isPlainText = true
+mediaType = "text/plain"
+root = true
